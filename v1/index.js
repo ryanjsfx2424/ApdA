@@ -1,4 +1,4 @@
-const CHAIN_ID = "0x5"
+const CHAIN_ID = 0x5
 const CHAIN_NAME = "Goerli";
 
 async function connectWallet() {
